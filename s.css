@@ -1,0 +1,28 @@
+#game div {
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  
+}
+
+
+.frontCard{
+  background-color: skyblue;
+  position: relative;
+ left:-5.8%;
+ top: -5.9% 
+
+}
+
+h1{
+  position:relative; 
+  top: 0px;
+  left: 800px;
+  color: blueviolet
+}
+
+body{
+  background:  linear-gradient(to bottom right, #ccccff 7%, #ccffff 96%)
+}
